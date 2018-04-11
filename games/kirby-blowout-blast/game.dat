@@ -1,0 +1,29 @@
+title = "Kirby: Blowout Blast"
+description = "Kirby's Blowout Blast (known in Japan as カービィの すいこみ大作戦 - Kirby's Operation Inhale) is an expanded spin-off game for the Nintendo 3DS. It is based off of the Kirby 3D Rumble Sub-Game in Kirby: Planet Robobot.  developed by HAL Laboratory and published by Nintendo."
+needs_system_files = false
+needs_shared_font = true
+
+[[releases]]
+title = "0004000000196F00"
+region = "usa"
+release_date = "2016-07-06"
+
+[[releases]]
+title = "0004000000196F00"
+region = "jpn"
+release_date = "2016-07-06"
+
+[[releases]]
+title = "0004000000196F00"
+region = "eur"
+release_date = "2016-07-06"
+
+[[releases]]
+title = "0004000000196F00"
+region = "twn"
+release_date = "2016-07-06"
+
+[[releases]]
+title = "0004000000196F00"
+region = "aus"
+release_date = "2016-07-06"
